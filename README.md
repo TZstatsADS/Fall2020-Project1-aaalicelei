@@ -9,10 +9,11 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2020
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Voting Behavior Under The Economic Crisis 2008
 + This project is conducted by Yiqi Lei
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: How people’s voting behaviors change in years that big events happen? There was an worldwide Economic Crisis happened in 2008, and 2008 was also an election year. After exploratory data analysis of survey responses collected by the American National Election Studies (ANES), three questions could be answered. Question 1. Was there a change in voting behavior in 2008? Question 2. Did partisanship affect the change?
+Question 3. Was the change related to employment?
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
